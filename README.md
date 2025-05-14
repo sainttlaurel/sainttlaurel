@@ -5,82 +5,89 @@
 
 <h2 align="center">👋 Hello, I'm Miguel Pilapil</h2>
 
-<p align="center">
-  <a href="https://www.credly.com/users/miguel-pilapil" target="_blank">
-    <img alt="Certifications Badge" src="https://img.shields.io/badge/Verified-Certified-blue?logo=verizon&style=flat-square">
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="1126919985902661683" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://linkedin.com/in/miguel-pilapil" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square">
+  <a href="https://www.facebook.com/saintlaureeel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="mailto:miguel@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Me-red?logo=gmail&style=flat-square">
+  <a href="https://www.instagram.com/_nonomigs/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-</p>
+  <a href="Miguelpilapil30@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/sainttlaurel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="@cheeelaurel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
----
+###
 
-## 🌟 Certifications & Achievements
+<h4 align="center">hey there 👋</h4>
 
-> *Passionate about continuous learning and excellence in Cloud, AI, Cybersecurity, and Data Science.*
+###
 
-### 🤖 **Artificial Intelligence & Machine Learning**
-- ![AI Basics](https://img.shields.io/badge/AI%20Basics-Microsoft-blueviolet?style=flat-square)  
-  [Microsoft - AI Basics](https://www.cognitiveclass.ai/certificates/de91970256fe4292bb90d87ce2af8205)
-- ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange?style=flat-square)  
-  [TensorFlow - Deep Learning](https://www.cognitiveclass.ai/certificates/98c4e6bd9ce944608b7bcd8dcc4f05ce)
+<h5 align="left">I am a passionate learner and tech enthusiast with multiple certifications in AI, Cloud Computing, Cybersecurity, Data Science, and more. I specialize in leveraging technology to solve real-world problems and drive innovation.</h5>
 
-### ☁️ **Cloud Computing & DevOps**
-- ![IBM Cloud Essentials](https://img.shields.io/badge/IBM%20Cloud-Essentials-1e4174?style=flat-square)  
-  [IBM - Cloud Essentials](https://courses.cognitiveclass.ai/certificates/d2439bf953394ca68993aea3c87dd7ff)
-- ![AWS Security](https://img.shields.io/badge/AWS-Security-yellow?logo=amazon-aws&style=flat-square)  
-  [AWS - Security](https://www.credly.com/badges/82bd24f2-7fc2-4c22-8d5e-70987c0aa682)
-- ![OCI Foundations](https://img.shields.io/badge/OCI-Foundations-blue?logo=oracle&style=flat-square)  
-  [Oracle - OCI Foundations](https://www.oracle.com/database/technologies/)
+###
 
-### 🔐 **Cybersecurity & Data Privacy**
-- ![Ethical Hacker](https://img.shields.io/badge/Ethical%20Hacker-Cisco-red?style=flat-square)  
-  [Cisco - Ethical Hacker](https://www.credly.com/badges/f6e195f6-defa-46d5-886e-0bdd31e7110b)
-- ![Data Privacy](https://img.shields.io/badge/Data%20Privacy-IBM-lightgreen?style=flat-square)  
-  [IBM - Data Privacy](https://courses.cognitiveclass.ai/certificates/7ba9b141811a442ebbc10135932e5389)
+<h6 align="left">🔭 I’m working as a multi-certified professional in Cloud, AI, Cybersecurity, Data Science, and Programming.<br><br>📚 I'm currently learning advanced cloud computing and cybersecurity strategies, along with deep diving into machine learning and AI.<br><br>⚡ In my free time, I enjoy building tech projects, solving CTF challenges, exploring new programming languages, and keeping up with the latest in tech trends.</h6>
 
-### 📊 **Data Science & Analytics**
-- ![Data Science Foundations](https://img.shields.io/badge/Data%20Science-Foundations-9cf?style=flat-square)  
-  [IBM - Data Science Foundations](https://courses.cognitiveclass.ai/certificates/74bdfa7275a246a78d8657a211f3b074)
-- ![SQL 101](https://img.shields.io/badge/SQL-101-lightblue?style=flat-square)  
-  [IBM - SQL 101](https://courses.cognitiveclass.ai/certificates/fb632a5dc1f74fffb2921a86b662ce2e)
+###
 
-### 💻 **Programming & Development**
-- ![Python 101](https://img.shields.io/badge/Python-101-yellow?logo=python&style=flat-square)  
-  [IBM - Python 101](https://courses.cognitiveclass.ai/certificates/de91970256fe4292bb90d87ce2af8205)
-- ![JavaScript Essentials](https://img.shields.io/badge/JavaScript-Essentials-orange?logo=javascript&style=flat-square)  
-  [JavaScript Essentials](https://www.coursera.org/learn/javascript)
-- ![MATLAB Onramp](https://img.shields.io/badge/MATLAB-Onramp-blue?style=flat-square)  
-  [MATLAB - Onramp](https://www.mathworks.com/)
+<h3 align="left">🛠 Language and tools</h3>
 
----
+###
 
-## 🚀 About Me
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
 
-💼 **What I Do**  
-I am a passionate learner and tech enthusiast with multiple certifications in AI, Cloud Computing, Cybersecurity, Data Science, and more. I specialize in leveraging technology to solve real-world problems and drive innovation.
+###
 
-🔍 **My Interests**  
-- Artificial Intelligence & Machine Learning  
-- Cloud Solutions (IBM, AWS, Oracle)  
-- Cybersecurity & Data Privacy  
-- Data Science & Analytics  
-- Programming (Python, JavaScript)  
+<h3 align="left">🔥   My Stats :</h3>
 
-💻 **Current Focus**  
-I'm currently diving deep into cloud-based AI systems and cybersecurity to enhance my skills and contribute to the growing field of technology.
-
----
-
-## 📌 Pinned Projects
-
-```bash
-🔹 AI Resume Screener Tool
-🔹 Personal Portfolio Website with React
-🔹 Python Automation Scripts
-🔹 Data Dashboard with Plotly
-🔹 TryHackMe/CTF Progress Log
+###
