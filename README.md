@@ -82,3 +82,8 @@
 🔹 Python Automation Scripts
 🔹 Data Dashboard with Plotly
 🔹 TryHackMe/CTF Progress Log
+
+HackerRank Profile: https://www.hackerrank.com/profile/miguel_pilapil
+TryHackMe Profile: https://tryhackme.com/p/MIGKOUEL
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/MIGKOUEL.png" alt="Your Image Badge" /> ```
