@@ -16,6 +16,15 @@
   </a>
 </div>
 
+## 💻 HackerRank Profile
+
+<div align="center">
+  <a href="https://www.hackerrank.com/profile/miguel_pilapil" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-blue?style=flat-square&logo=hackerrank" alt="HackerRank Profile" />
+  </a>
+</div>
+
+
 
 ## 👨‍💻 About Me
 
