@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+My+Tech+Space!;Certified+in+Cloud%2C+AI%2C+Cybersecurity+%26+More!;Always+Learning+%F0%9F%9A%80+Always+Building!" alt="Typing SVG">
 </p>
 
-<h2 align="center">👋 Hello, I'm [Your Name Here]!</h2>
+<h2 align="center">👋 Hello, I'm Miguel!</h2>
 
 <p align="center">
   <a href="https://www.credly.com/users/your-profile" target="_blank">
