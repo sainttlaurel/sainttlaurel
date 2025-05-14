@@ -5,6 +5,8 @@
 
 ---
 
+<p align="left"> <a href="https://facebook.com/YOUR_USERNAME" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> <a href="https://instagram.com/YOUR_USERNAME" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> </a> </p>
+
 ## 👨‍💻 About Me
 
 <table align="center">
@@ -29,6 +31,7 @@ I thrive at the intersection of curiosity and creation — always learning, alwa
 </td>
 </tr>
 </table>
+
 
 ---
 
