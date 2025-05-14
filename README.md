@@ -85,5 +85,3 @@
 
 HackerRank Profile: https://www.hackerrank.com/profile/miguel_pilapil
 TryHackMe Profile: https://tryhackme.com/p/MIGKOUEL
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/MIGKOUEL.png" alt="Your Image Badge" /> ```
