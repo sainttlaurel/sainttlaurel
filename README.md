@@ -59,14 +59,16 @@
   </table>
 </div>
 
-📟 Console.log(aboutMe)
-javascriptconst Miguel = {
+<h3>📟 Console.log(aboutMe)</h3>
+<pre>
+<code>
+const Miguel = {
   identity: "Tech Polymath | System Architect | Digital Craftsman",
   education: {
     degree: "BS Information Technology",
     institution: "New Era University",
     achievements: ["Dean's List (1st & 2nd Year)", "President's List (3rd Year)"],
-    gpa: 1.4 // Outstanding academic performance
+    gpa: 1.4
   },
   skills: {
     cybersecurity: ["Ethical Hacking", "Threat Analysis", "Security Protocols"],
@@ -75,7 +77,7 @@ javascriptconst Miguel = {
     dataScience: ["Python Analysis", "SQL", "Data Visualization", "Big Data"],
     development: ["Full-Stack Web", "Mobile Apps", "RESTful APIs", "Database Design"]
   },
-  certifications: 40, // And continuously expanding
+  certifications: 40,
   currentFocus: [
     "Zero-Trust Architecture Implementation",
     "Quantum-resistant Cryptographic Solutions",
@@ -87,6 +89,9 @@ javascriptconst Miguel = {
     lifeMotto: "Technology without purpose is just complexity"
   }
 };
+</code>
+</pre>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" width="330px" />
 
 🎨 Projects Gallery
