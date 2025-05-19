@@ -1,204 +1,363 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&height=100&lines=🚀+Miguel+Pilapil+|+Tech+Polymath+🚀;🔒+Cybersecurity+|+☁️+Cloud+Computing+|+🤖+AI;📊+Data+Science+|+💻+Full-Stack+Development;🎓+40%2B+Certifications+and+Counting;Lifelong+Learner+%7C+Problem+Solver+%7C+Builder!" alt="Typing SVG" />
+  <!-- Custom SVG Header with Terminal-style Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&center=true&vCenter=true&width=900&height=100&lines=$ whoami;> Miguel Pilapil | Tech Architect;$ skills;> Cybersecurity | Cloud | AI | Data Science;$ experience;> Full-Stack Developer | System Builder;$ mindset;> Problem Solver | Innovator | Lifelong Learner" alt="Terminal Style Typing SVG" />
+</div>
+<div align="center">
+  <h3>🔮 Where Technology Meets Creativity | <code>echo $PASSION | grep Innovation</code></h3>
 </div>
 
----
-
-<div align="center"> <a href="https://www.facebook.com/saintlaureeel" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="40" style="margin: 0 15px;" /> </a> <a href="https://www.instagram.com/_nonomigs/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="40" style="margin: 0 15px;" /> </a> <a href="https://www.linkedin.com/in/sainttlaurel" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="margin: 0 15px;" /> </a> <a href="mailto:MiguelPilapil30@gmail.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" style="margin: 0 15px;" /> </a> <a href="https://discordapp.com/users/justtwannadie" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" height="40" style="margin: 0 15px;" /> </a> </div>
-
-
-## 🔐 TryHackMe Profile
-
-<div align="center">
-  <a href="https://tryhackme.com/p/MIGKOUEL" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/MIGKOUEL.png" alt="TryHackMe Badge" />
-  </a>
-</div>
-
-## 💻 HackerRank Profile
-
-<div align="center">
-  <a href="https://www.hackerrank.com/profile/miguel_pilapil" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-4CAF50?style=flat-square&logo=codeforces" alt="Miguel's HackerRank Profile" />
-  </a>
-</div>
-
-
-
-
-## 👨‍💻 About Me
-
-<table align="center">
-<tr>
-<td width="60%">
-<p>
-I’m Miguel Pilapil, a multi-certified tech polymath deeply passionate about solving real-world challenges through innovation. Currently pursuing my BS in Information Technology at New Era University — proudly part of the Dean’s and President’s List — I combine academic excellence with industry-grade experience across:
-</p>
-<ul>
-  <li>🔐 Cybersecurity</li>
-  <li>☁️ Cloud Computing</li>
-  <li>🤖 Artificial Intelligence</li>
-  <li>💻 Full-Stack Development</li>
-  <li>📊 Data Science & Analytics</li>
-</ul>
-<p>
-I thrive at the intersection of curiosity and creation — always learning, always building.
-</p>
-</td>
-<td align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="200" />
-</td>
-</tr>
+🧩 Digital Footprint
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <a href="https://www.facebook.com/saintlaureeel" target="_blank">
+        <img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook" />
+        <br/><sub>saintlaureeel</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/_nonomigs/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+        <br/><sub>_nonomigs</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/sainttlaurel" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+        <br/><sub>sainttlaurel</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:MiguelPilapil30@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+        <br/><sub>MiguelPilapil30</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discordapp.com/users/justtwannadie" target="_blank">
+        <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
+        <br/><sub>justtwannadie</sub>
+      </a>
+    </td>
+  </tr>
 </table>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://tryhackme.com/p/MIGKOUEL" target="_blank">
+          <img src="https://tryhackme-badges.s3.amazonaws.com/MIGKOUEL.png" alt="TryHackMe Badge" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.hackerrank.com/profile/miguel_pilapil" target="_blank">
+          <img src="https://img.shields.io/badge/HackerRank-Profile-4CAF50?style=flat-square&logo=hackerrank&logoColor=white" alt="Miguel's HackerRank Profile" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+📟 Console.log(aboutMe)
+javascriptconst Miguel = {
+  identity: "Tech Polymath | System Architect | Digital Craftsman",
+  education: {
+    degree: "BS Information Technology",
+    institution: "New Era University",
+    achievements: ["Dean's List (1st & 2nd Year)", "President's List (3rd Year)"],
+    gpa: 1.4 // Outstanding academic performance
+  },
+  skills: {
+    cybersecurity: ["Ethical Hacking", "Threat Analysis", "Security Protocols"],
+    cloudComputing: ["AWS", "Oracle Cloud", "Firebase", "Microservices"],
+    artificialIntelligence: ["TensorFlow", "Machine Learning", "Natural Language Processing"],
+    dataScience: ["Python Analysis", "SQL", "Data Visualization", "Big Data"],
+    development: ["Full-Stack Web", "Mobile Apps", "RESTful APIs", "Database Design"]
+  },
+  certifications: 40, // And continuously expanding
+  currentFocus: [
+    "Zero-Trust Architecture Implementation",
+    "Quantum-resistant Cryptographic Solutions",
+    "Edge Computing Integration with IoT Ecosystems"
+  ],
+  quirks: {
+    codingWith: ["Lo-fi beats", "Black coffee", "Midnight inspiration"],
+    debuggingTechnique: "Explain the problem to rubber ducks... or cats",
+    lifeMotto: "Technology without purpose is just complexity"
+  }
+};
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" width="330px" />
 
-## 🌟 Featured Projects
-
-<table align="center">
+🎨 Projects Gallery
+<table>
   <tr>
-    <td align="center" width="33%">
-      <h3>Ravi Modular Website</h3>
-      <img src="https://img.shields.io/badge/Type-Web_Application-blue?style=for-the-badge" />
-      <p>A complete modular business web solution with full front-end, back-end, and database systems.</p>
-      <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+    <td width="50%">
+      <h3 align="center">NoteZi: Cloud-Synchronized Note Platform</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpnam10dnpicGFpM2RwbGpyM21zamEzZGJ1aGd6MGNkY2g1bDMwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7MXRqNMs4tG0QU/giphy.gif" width="100%" alt="NoteZi Project" />
+        </a>
+        <p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/KOTLIN-B125EA?style=for-the-badge&logo=kotlin" alt="Kotlin" />
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+          </a>
+        </p>
+        <p><strong>Advanced note-taking application with real-time cloud synchronization, biometric authentication, and collaborative editing features.</strong></p>
+      </div>
     </td>
-    <td align="center" width="33%">
-      <h3>NoteZi</h3>
-      <img src="https://img.shields.io/badge/Type-Mobile_App-purple?style=for-the-badge" />
-      <p>Kotlin-powered mobile note app featuring Firebase cloud integration and user-authentication.</p>
-      <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-    </td>
-    <td align="center" width="33%">
-      <h3>Yummy App</h3>
-      <img src="https://img.shields.io/badge/Type-Mobile_App-purple?style=for-the-badge" />
-      <p>End-to-end food delivery application with robust UI/UX and real-time order tracking.</p>
-      <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+    <td width="50%">
+      <h3 align="center">Ravi Modular: Enterprise Platform</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmV6ZGRmNm1sa2M4NGV4MHAzeWE0ZDh2c2IzeXdsdHp3cnh1c2Z3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Ravi Modular" />
+        </a>
+        <p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+          </a>
+        </p>
+        <p><strong>Comprehensive business management platform with dynamic module system, analytics dashboard, and real-time inventory tracking.</strong></p>
+      </div>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <h3>Online Banking System</h3>
-      <img src="https://img.shields.io/badge/Type-Web_Application-blue?style=for-the-badge" />
-      <p>Secure online banking interface with full-stack development and SQL database integration.</p>
-      <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+    <td width="50%">
+      <h3 align="center">Yummy: Food Delivery Ecosystem</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z1M3ZzMW55MDAwZXVnZzlpOHQ0b3V0d3V5OWV2ZDdvem5hZ3plNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckHAdLU2OmY7knUClD/giphy.gif" width="100%" alt="Yummy App" />
+        </a>
+        <p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/KOTLIN-B125EA?style=for-the-badge&logo=kotlin" alt="Kotlin" />
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/MAPS API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Maps API" />
+          </a>
+        </p>
+        <p><strong>Revolutionary food delivery platform with AI-powered order recommendations, real-time delivery tracking, and dynamic pricing algorithms.</strong></p>
+      </div>
     </td>
-    <td align="center" colspan="2">
-      <h3>🔭 Currently Working On</h3>
-      <ul align="left">
-        <li>🧠 Advanced AI security solutions for threat detection</li>
-        <li>☁️ Cloud-native microservice architecture</li>
-        <li>📈 Data visualization dashboards with interactive graphs</li>
+    <td width="50%">
+      <h3 align="center">SecureBanking: Financial Interface</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5ibGZkN3Z1MXIxdHdsN3A4aHEyc3lldTdnbDU2aWQ2c29idjh6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JrXas5QuPCD4c7eea7/giphy.gif" width="100%" alt="Banking System" />
+        </a>
+        <p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+          </a>
+        </p>
+        <p><strong>Multi-layer secured banking system with advanced transaction monitoring, biometric verification, and fraud detection algorithms.</strong></p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+🧠 Knowledge Matrix
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNjemRxbzI5Y3Zsa2l2ZWNxZXl2Y3ZsY3luNGtyeG1jZm01ZDQ2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+    </td>
+    <td>
+      <div align="center">
+        <h3>💡 Areas of Expertise</h3>
+      </div>
+      <div>
+        <!-- Custom skill bars -->
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+          <span style="width: 150px; display: inline-block;">Cybersecurity</span>
+          <div style="flex-grow: 1; background-color: #3a3a3a; border-radius: 5px; height: 10px; position: relative;">
+            <div style="width: 95%; background-color: #ff5722; height: 10px; border-radius: 5px;"></div>
+          </div>
+          <span style="margin-left: 10px;">95%</span>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+          <span style="width: 150px; display: inline-block;">Cloud Computing</span>
+          <div style="flex-grow: 1; background-color: #3a3a3a; border-radius: 5px; height: 10px; position: relative;">
+            <div style="width: 92%; background-color: #2196f3; height: 10px; border-radius: 5px;"></div>
+          </div>
+          <span style="margin-left: 10px;">92%</span>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+          <span style="width: 150px; display: inline-block;">Full-Stack Dev</span>
+          <div style="flex-grow: 1; background-color: #3a3a3a; border-radius: 5px; height: 10px; position: relative;">
+            <div style="width: 88%; background-color: #4caf50; height: 10px; border-radius: 5px;"></div>
+          </div>
+          <span style="margin-left: 10px;">88%</span>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+          <span style="width: 150px; display: inline-block;">AI & ML</span>
+          <div style="flex-grow: 1; background-color: #3a3a3a; border-radius: 5px; height: 10px; position: relative;">
+            <div style="width: 85%; background-color: #9c27b0; height: 10px; border-radius: 5px;"></div>
+          </div>
+          <span style="margin-left: 10px;">85%</span>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+          <span style="width: 150px; display: inline-block;">Data Science</span>
+          <div style="flex-grow: 1; background-color: #3a3a3a; border-radius: 5px; height: 10px; position: relative;">
+            <div style="width: 90%; background-color: #ff9800; height: 10px; border-radius: 5px;"></div>
+          </div>
+          <span style="margin-left: 10px;">90%</span>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+⚙️ Tech Arsenal
+<div align="center">
+  <!-- Core Languages -->
+  <img src="https://skillicons.dev/icons?i=python,js,kotlin,java,cs,cpp" /><br>
+  <!-- Web Development -->
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,php,tailwind" /><br>
+  <!-- Data & Backend -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,tensorflow,flask,django" /><br>
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git,linux,aws,docker,vscode,figma" />
+</div>
+
+📜 Certification Cosmos
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9oZ2o5N25zdmZ4dnZnaDVuN2swcjVzOW04cjZ6aGlwZGUxY2JibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPeQ5Lz5l7PV7mU/giphy.gif" width="200px" />
+  <div style="max-width: 800px; margin: 0 auto;">
+    <h3>40+ Professional Certifications Across Multiple Domains</h3>
+    <p>My certification journey represents my commitment to continuous learning and mastery across the technology spectrum. Each certification isn't just a badge—it's a milestone in my quest to build comprehensive expertise.</p>
+  </div>
+</div>
+<details>
+<summary><b>🌌 Explore My Certification Universe</b></summary>
+<table>
+  <tr>
+    <td>
+      <h4>🤖 AI & Machine Learning</h4>
+      <ul>
+        <li>Deep Learning with TensorFlow – IBM</li>
+        <li>Microsoft GenAI Series (Complete 5-Part Program)</li>
+        <li>AI for Career Growth – JobStreet Career Hub</li>
+        <li>The Future of Marketing with AI</li>
+      </ul>
+    </td>
+    <td>
+      <h4>☁️ Cloud Architecture</h4>
+      <ul>
+        <li>Oracle Cloud Infrastructure 2022 Certified Associate</li>
+        <li>AWS Security Incident Response</li>
+        <li>AWS Managed Services: Advanced Access Management</li>
+        <li>IBM Cloud Essentials V3</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🔒 Cybersecurity</h4>
+      <ul>
+        <li>Cisco Ethical Hacker</li>
+        <li>Cybersecurity for Small Business Owners – AWS</li>
+        <li>Introduction to Cybersecurity – Cisco</li>
+      </ul>
+    </td>
+    <td>
+      <h4>📊 Data Science</h4>
+      <ul>
+        <li>Data Science Foundations – IBM</li>
+        <li>College Algebra with Python – FreeCodeCamp</li>
+        <li>Data Analysis with Python – FreeCodeCamp</li>
+        <li>SQL and Relational Databases 101 – IBM</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>💻 Software Development</h4>
+      <ul>
+        <li>JavaScript Algorithms and DSA – FreeCodeCamp</li>
+        <li>Python for Data Science – IBM</li>
+        <li>MATLAB Onramp – MathWorks</li>
+        <li>JavaScript Essentials 1 & 2 – Cisco</li>
+      </ul>
+    </td>
+    <td>
+      <h4>🌐 Web Development</h4>
+      <ul>
+        <li>ReactJS for Beginners – Simplilearn</li>
+        <li>Responsive Web Design – FreeCodeCamp</li>
+        <li>Legacy Front End Developer – FreeCodeCamp</li>
+        <li>Legacy Data Visualization – FreeCodeCamp</li>
       </ul>
     </td>
   </tr>
 </table>
-
----
-
-## 🛣️ My Tech Journey
-
-```mermaid
-timeline
-  title Miguel Pilapil's Tech Evolution
-  2021 : Started in IT Support
-       : Hands-on troubleshooting & PC builds
-  2022 : Earned Oracle Cloud certifications
-       : Ventured into DevOps & infrastructure
-  2024 : Interned in Project Management
-       : Delivered full-stack web projects
-  2025 : Specialized in AI, Cloud & Cybersecurity
-       : Achieved 40+ Certifications
-```
-
----
-
-## 💼 Experience
-
-<details>
-<summary><b>🚀 IT Project Intern @ Highly Succed Inc. (2024–2025)</b></summary>
-<ul>
-  <li>Planned and tracked project deliverables, timelines, and risks</li>
-  <li>Worked cross-functionally with IT teams for project execution</li>
-  <li>Maintained documentation and reports for stakeholders</li>
-  <li>Utilized PM tools like Gantt charts and Agile methodologies</li>
-</ul>
 </details>
 
-<details>
-<summary><b>🖥️ Tech Staff (2021–2022)</b></summary>
-<ul>
-  <li>Diagnosed and repaired hardware/software issues</li>
-  <li>Built and optimized custom PCs</li>
-  <li>Supported desktop systems and local network setups</li>
-</ul>
-</details>
+🚀 Professional Trajectory
+mermaidjourney
+  title Miguel's Tech Evolution Timeline
+  section Foundations
+    IT Support Specialist: 5: 2021
+    Oracle Cloud Certified: 5: 2022
+  section Growth
+    Project Management Intern: 4: 2024
+    Full-Stack Development Projects: 5: 2024
+  section Specialization
+    Cybersecurity & AI Focus: 5: 2025
+    40+ Professional Certifications: 5: 2025
+  section Future Vision
+    Cloud Architecture Mastery: 3: In Progress
+    AI Security Solutions: 4: In Progress
+    Edge Computing Integration: 4: In Progress
 
----
+🧪 Current Experiments
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzE5ajJsNHZ3bHJsb3BsZW5rbGU1bmEzYnl0OG9wNTYxbWZhdXp2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPmJonGimU9bI2s/giphy.gif" width="100px" />
+      <h4>🔬 Zero-Trust Architecture Implementation</h4>
+      <p>Building next-gen security frameworks with continuous verification principles</p>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDkxcWFsNW52dm56bzI3MWVpZDBuOXg2bWN1ajJ0bzFrcGxzazhsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" width="100px" />
+      <h4>🧠 Advanced Neural Networks for Anomaly Detection</h4>
+      <p>Training custom neural nets to identify security breaches in real-time</p>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGQxMWFoY2s2NDFxOTcyc3YzZmEybG82cTZ3MHJlM3ZnMHlnamllcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="100px" />
+      <h4>☁️ Serverless Microservices Architecture</h4>
+      <p>Designing event-driven, scalable cloud infrastructure patterns</p>
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Tech Stack
-
+💭 Tech Philosophy
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhkZXQ5anA2ejRzaHZ3cnF5MXJuenIwcWNpeXBuYzJsNTZjdGI1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif" width="300px" />
+
+"Technology without purpose is just complexity. My mission is to build solutions that genuinely solve human problems—making the complex simple and the impossible accessible."
+
 </div>
 
----
-
-## 🏅 Certifications
-
-<details>
-<summary><b>🎓 View 40+ Professional Certifications</b></summary>
-
-### 🤖 Artificial Intelligence & Machine Learning
-- Deep Learning with TensorFlow – IBM & Cognitive Class  
-- Microsoft GenAI Series (5 Certifications)  
-- AI for Career Growth – JobStreet  
-
-### ☁️ Cloud Computing
-- Oracle Cloud Certified Associate  
-- AWS Security & AMS  
-- IBM Cloud Essentials  
-
-### 🔒 Cybersecurity
-- Cisco Ethical Hacker  
-- Cybersecurity for SMBs – AWS  
-- Cisco Introduction to Cybersecurity  
-
-### 📊 Data Science & Analytics
-- Data Science Foundations – IBM  
-- Data Analysis with Python – FreeCodeCamp  
-- SQL and Relational Databases – IBM  
-
-### 💻 Software Development
-- Python for Data Science – IBM  
-- Scientific Computing with Python – FreeCodeCamp  
-- JavaScript Algorithms and DSA – FreeCodeCamp  
-
-### 🌐 Web Development
-- Responsive Web Design – FreeCodeCamp  
-- ReactJS for Beginners – Simplilearn  
-- Front-End Developer Certification – FreeCodeCamp  
-
-...and many more!
-</details>
-
----
-
-> ⚡ *"Technology is not just a tool — it's my language of innovation."*  
-> – Miguel Pilapil
+<div align="center">
+  <h3>🔄 Always in Development Mode</h3>
+  <p>This profile, like my skills, is constantly evolving. Check back for regular updates on my latest projects and tech adventures!</p>
+  <br>
+  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" alt="Visitor Count" />
+  <p>Thanks for visiting! Happy coding! 👨‍💻</p>
+</div>
