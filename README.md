@@ -1,204 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SaintTlaurel Terminal Portfolio</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #0f0;
+      font-family: 'Courier New', Courier, monospace;
+      padding: 20px;
+    }
+    a {
+      color: #0ff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3 {
+      color: #0f0;
+    }
+    .terminal-line {
+      margin: 10px 0;
+    }
+    .indent {
+      margin-left: 20px;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    pre {
+      background-color: #111;
+      padding: 10px;
+      border-left: 3px solid #0f0;
+      overflow-x: auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="section">
+    <h1>sainttlaurel@portfolio:~$</h1>
+    <p class="terminal-line">Welcome to my interactive developer terminal. Type <code>help</code> to explore.</p>
+  </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&height=100&lines=🚀+Miguel+Pilapil+|+Tech+Polymath+🚀;🔒+Cybersecurity+|+☁️+Cloud+Computing+|+🤖+AI;📊+Data+Science+|+💻+Full-Stack+Development;🎓+40%2B+Certifications+and+Counting;Lifelong+Learner+%7C+Problem+Solver+%7C+Builder!" alt="Typing SVG" />
-</div>
+  <div class="section">
+    <h2>🧠 Whoami</h2>
+    <p>Hello! I'm <strong>Saint T. Laurel</strong>, a passionate Full-Stack Developer and Tech Architect. My world revolves around crafting efficient systems, elegant interfaces, and innovative solutions that make technology human-centric.</p>
+  </div>
 
----
+  <div class="section">
+    <h2>📟 Console.log(aboutMe)</h2>
+    <pre><code>
+const Miguel = {
+  identity: "Tech Polymath | System Architect | Digital Craftsman",
+  education: {
+    degree: "BS Information Technology",
+    institution: "New Era University",
+    achievements: ["Dean's List (1st & 2nd Year)", "President's List (3rd Year)"],
+    gpa: 1.4
+  },
+  skills: {
+    cybersecurity: ["Ethical Hacking", "Threat Analysis", "Security Protocols"],
+    cloudComputing: ["AWS", "Oracle Cloud", "Firebase", "Microservices"],
+    artificialIntelligence: ["TensorFlow", "Machine Learning", "Natural Language Processing"],
+    dataScience: ["Python Analysis", "SQL", "Data Visualization", "Big Data"],
+    development: ["Full-Stack Web", "Mobile Apps", "RESTful APIs", "Database Design"]
+  },
+  certifications: 40,
+  currentFocus: [
+    "Zero-Trust Architecture Implementation",
+    "Quantum-resistant Cryptographic Solutions",
+    "Edge Computing Integration with IoT Ecosystems"
+  ],
+  quirks: {
+    codingWith: ["Lo-fi beats", "Black coffee", "Midnight inspiration"],
+    debuggingTechnique: "Explain the problem to rubber ducks... or cats",
+    lifeMotto: "Technology without purpose is just complexity"
+  }
+};
+    </code></pre>
+  </div>
 
-<div align="center"> <a href="https://www.facebook.com/saintlaureeel" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="40" style="margin: 0 15px;" /> </a> <a href="https://www.instagram.com/_nonomigs/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="40" style="margin: 0 15px;" /> </a> <a href="https://www.linkedin.com/in/sainttlaurel" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="margin: 0 15px;" /> </a> <a href="mailto:MiguelPilapil30@gmail.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" style="margin: 0 15px;" /> </a> <a href="https://discordapp.com/users/justtwannadie" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" height="40" style="margin: 0 15px;" /> </a> </div>
+  <div class="section">
+    <h2>📁 Projects</h2>
+    <ul>
+      <li><a href="https://github.com/sainttlaurel/terminal-portfolio">Terminal-style Portfolio</a> – This interactive resume you're browsing now!</li>
+      <li><a href="https://github.com/sainttlaurel/ai-docu-finder">AI DocuFinder</a> – Search legal documents using natural language queries.</li>
+      <li><a href="https://github.com/sainttlaurel/react-grocery-app">Grocery App (React)</a> – Manage your groceries with a responsive, animated UI.</li>
+    </ul>
+  </div>
 
+  <div class="section">
+    <h2>🎖️ Certifications</h2>
+    <ul>
+      <li>Oracle: Cloud Infrastructure 2022 Certified Foundations Associate</li>
+      <li>IBM: Big Data 101, SQL & Relational DBs, NoSQL, Data Science 101</li>
+      <li>Google Chronicle: Security Operations Fundamentals</li>
+      <li>TryHackMe: Introduction to Windows API</li>
+      <li>And more (40+ certifications)</li>
+    </ul>
+  </div>
 
-## 🔐 TryHackMe Profile
+  <div class="section">
+    <h2>📊 GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=sainttlaurel&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainttlaurel&layout=compact&theme=radical" alt="Top Languages"/>
+  </div>
 
-<div align="center">
-  <a href="https://tryhackme.com/p/MIGKOUEL" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/MIGKOUEL.png" alt="TryHackMe Badge" />
-  </a>
-</div>
+  <div class="section">
+    <h2>🛠️ Tech Stack</h2>
+    <!-- Web Development -->
+    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,php,mysql,firebase,bootstrap" /><br>
+    <!-- Programming & Scripting -->
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,java,bash" /><br>
+    <!-- Tools & Platforms -->
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,clion,docker,aws" />
+  </div>
 
-## 💻 HackerRank Profile
+  <div class="section">
+    <h2>📫 Connect With Me</h2>
+    <p class="indent">🐙 GitHub: <a href="https://github.com/sainttlaurel" target="_blank">sainttlaurel</a></p>
+    <p class="indent">💼 LinkedIn: <a href="https://linkedin.com/in/sainttlaurel" target="_blank">sainttlaurel</a></p>
+    <p class="indent">📨 Email: <a href="mailto:sainttlaurel@gmail.com">sainttlaurel@gmail.com</a></p>
+  </div>
 
-<div align="center">
-  <a href="https://www.hackerrank.com/profile/miguel_pilapil" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-4CAF50?style=flat-square&logo=codeforces" alt="Miguel's HackerRank Profile" />
-  </a>
-</div>
+  <div class="section">
+    <h2>💡 Fun Fact</h2>
+    <p class="terminal-line">I once debugged a system by pretending I was a compiler and "thinking in C." It worked.</p>
+  </div>
 
+  <div class="section">
+    <h2>🧮 Run command</h2>
+    <p class="terminal-line">> help</p>
+    <p class="terminal-line indent">Available commands: <code>projects</code>, <code>skills</code>, <code>contact</code>, <code>about</code></p>
+  </div>
 
-
-
-## 👨‍💻 About Me
-
-<table align="center">
-<tr>
-<td width="60%">
-<p>
-I’m Miguel Pilapil, a multi-certified tech polymath deeply passionate about solving real-world challenges through innovation. Currently pursuing my BS in Information Technology at New Era University — proudly part of the Dean’s and President’s List — I combine academic excellence with industry-grade experience across:
-</p>
-<ul>
-  <li>🔐 Cybersecurity</li>
-  <li>☁️ Cloud Computing</li>
-  <li>🤖 Artificial Intelligence</li>
-  <li>💻 Full-Stack Development</li>
-  <li>📊 Data Science & Analytics</li>
-</ul>
-<p>
-I thrive at the intersection of curiosity and creation — always learning, always building.
-</p>
-</td>
-<td align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="200" />
-</td>
-</tr>
-</table>
-
-
----
-
-## 🌟 Featured Projects
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>Ravi Modular Website</h3>
-      <img src="https://img.shields.io/badge/Type-Web_Application-blue?style=for-the-badge" />
-      <p>A complete modular business web solution with full front-end, back-end, and database systems.</p>
-      <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-    </td>
-    <td align="center" width="33%">
-      <h3>NoteZi</h3>
-      <img src="https://img.shields.io/badge/Type-Mobile_App-purple?style=for-the-badge" />
-      <p>Kotlin-powered mobile note app featuring Firebase cloud integration and user-authentication.</p>
-      <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-    </td>
-    <td align="center" width="33%">
-      <h3>Yummy App</h3>
-      <img src="https://img.shields.io/badge/Type-Mobile_App-purple?style=for-the-badge" />
-      <p>End-to-end food delivery application with robust UI/UX and real-time order tracking.</p>
-      <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h3>Online Banking System</h3>
-      <img src="https://img.shields.io/badge/Type-Web_Application-blue?style=for-the-badge" />
-      <p>Secure online banking interface with full-stack development and SQL database integration.</p>
-      <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-    </td>
-    <td align="center" colspan="2">
-      <h3>🔭 Currently Working On</h3>
-      <ul align="left">
-        <li>🧠 Advanced AI security solutions for threat detection</li>
-        <li>☁️ Cloud-native microservice architecture</li>
-        <li>📈 Data visualization dashboards with interactive graphs</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛣️ My Tech Journey
-
-```mermaid
-timeline
-  title Miguel Pilapil's Tech Evolution
-  2021 : Started in IT Support
-       : Hands-on troubleshooting & PC builds
-  2022 : Earned Oracle Cloud certifications
-       : Ventured into DevOps & infrastructure
-  2024 : Interned in Project Management
-       : Delivered full-stack web projects
-  2025 : Specialized in AI, Cloud & Cybersecurity
-       : Achieved 40+ Certifications
-```
-
----
-
-## 💼 Experience
-
-<details>
-<summary><b>🚀 IT Project Intern @ Highly Succed Inc. (2024–2025)</b></summary>
-<ul>
-  <li>Planned and tracked project deliverables, timelines, and risks</li>
-  <li>Worked cross-functionally with IT teams for project execution</li>
-  <li>Maintained documentation and reports for stakeholders</li>
-  <li>Utilized PM tools like Gantt charts and Agile methodologies</li>
-</ul>
-</details>
-
-<details>
-<summary><b>🖥️ Tech Staff (2021–2022)</b></summary>
-<ul>
-  <li>Diagnosed and repaired hardware/software issues</li>
-  <li>Built and optimized custom PCs</li>
-  <li>Supported desktop systems and local network setups</li>
-</ul>
-</details>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
----
-
-## 🏅 Certifications
-
-<details>
-<summary><b>🎓 View 40+ Professional Certifications</b></summary>
-
-### 🤖 Artificial Intelligence & Machine Learning
-- Deep Learning with TensorFlow – IBM & Cognitive Class  
-- Microsoft GenAI Series (5 Certifications)  
-- AI for Career Growth – JobStreet  
-
-### ☁️ Cloud Computing
-- Oracle Cloud Certified Associate  
-- AWS Security & AMS  
-- IBM Cloud Essentials  
-
-### 🔒 Cybersecurity
-- Cisco Ethical Hacker  
-- Cybersecurity for SMBs – AWS  
-- Cisco Introduction to Cybersecurity  
-
-### 📊 Data Science & Analytics
-- Data Science Foundations – IBM  
-- Data Analysis with Python – FreeCodeCamp  
-- SQL and Relational Databases – IBM  
-
-### 💻 Software Development
-- Python for Data Science – IBM  
-- Scientific Computing with Python – FreeCodeCamp  
-- JavaScript Algorithms and DSA – FreeCodeCamp  
-
-### 🌐 Web Development
-- Responsive Web Design – FreeCodeCamp  
-- ReactJS for Beginners – Simplilearn  
-- Front-End Developer Certification – FreeCodeCamp  
-
-...and many more!
-</details>
-
----
-
-> ⚡ *"Technology is not just a tool — it's my language of innovation."*  
-> – Miguel Pilapil
+  <footer>
+    <p class="terminal-line">© 2025 sainttlaurel — All rights reserved.</p>
+  </footer>
+</body>
+</html>
