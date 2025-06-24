@@ -1,31 +1,31 @@
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&height=100&lines=🚀+Miguel+Pilapil+|+Tech+Polymath+🚀;🔒+Cybersecurity+|+☁️+Cloud+Computing+|+🤖+AI;📊+Data+Science+|+💻+Full-Stack+Development;🎓+40%2B+Certifications+and+Counting;Lifelong+Learner+%7C+Problem+Solver+%7C+Builder!" alt="Typing SVG" />
 </div>
 
 ---
 
+<div align="center"> <a href="https://www.facebook.com/saintlaureeel" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="40" style="margin: 0 15px;" /> </a> <a href="https://www.instagram.com/_nonomigs/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="40" style="margin: 0 15px;" /> </a> <a href="https://www.linkedin.com/in/sainttlaurel" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="margin: 0 15px;" /> </a> <a href="mailto:MiguelPilapil30@gmail.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" style="margin: 0 15px;" /> </a> <a href="https://discordapp.com/users/justtwannadie" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" height="40" style="margin: 0 15px;" /> </a> </div>
+
+
+## 🔐 TryHackMe Profile
+
 <div align="center">
-  <a href="https://www.facebook.com/saintlaureeel" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="40" style="margin: 0 15px;" /></a>
-  <a href="https://www.instagram.com/_nonomigs/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="40" style="margin: 0 15px;" /></a>
-  <a href="https://www.linkedin.com/in/sainttlaurel" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="margin: 0 15px;" /></a>
-  <a href="mailto:MiguelPilapil30@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" style="margin: 0 15px;" /></a>
-  <a href="https://discordapp.com/users/justtwannadie" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" height="40" style="margin: 0 15px;" /></a>
+  <a href="https://tryhackme.com/p/MIGKOUEL" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/MIGKOUEL.png" alt="TryHackMe Badge" />
+  </a>
 </div>
 
----
+## 💻 HackerRank Profile
 
-## 🔥 Welcome to My Digital Universe!
+<div align="center">
+  <a href="https://www.hackerrank.com/profile/miguel_pilapil" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-4CAF50?style=flat-square&logo=codeforces" alt="Miguel's HackerRank Profile" />
+  </a>
+</div>
 
-Hey there! I’m **Miguel Pilapil** — a tech polymath, relentless innovator, and passionate builder. With 40+ certifications and a drive for excellence, I thrive at the intersection of curiosity, creativity, and cutting-edge technology. Whether it’s defending cyberspace, building scalable cloud solutions, or crafting intelligent AI, I’m always pushing boundaries and delivering results.
 
----
 
-## 🚀 Quick Links
-
-- [TryHackMe Profile](https://tryhackme.com/p/MIGKOUEL) ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/MIGKOUEL.png)
-- [HackerRank Profile](https://www.hackerrank.com/profile/miguel_pilapil) ![HackerRank](https://img.shields.io/badge/HackerRank-Profile-4CAF50?style=flat-square&logo=codeforces)
-
----
 
 ## 👨‍💻 About Me
 
@@ -33,18 +33,17 @@ Hey there! I’m **Miguel Pilapil** — a tech polymath, relentless innovator, a
 <tr>
 <td width="60%">
 <p>
-🎓 <b>BS Information Technology @ New Era University</b> <br>
-Dean’s & President’s List | 40+ Professional Certifications
+I’m Miguel Pilapil, a multi-certified tech polymath deeply passionate about solving real-world challenges through innovation. Currently pursuing my BS in Information Technology at New Era University — proudly part of the Dean’s and President’s List — I combine academic excellence with industry-grade experience across:
 </p>
 <ul>
-  <li>🔐 Cybersecurity Specialist</li>
-  <li>☁️ Cloud Computing Architect</li>
-  <li>🤖 AI & Machine Learning Enthusiast</li>
-  <li>💻 Full-Stack Developer</li>
-  <li>📊 Data Science & Analytics Pro</li>
+  <li>🔐 Cybersecurity</li>
+  <li>☁️ Cloud Computing</li>
+  <li>🤖 Artificial Intelligence</li>
+  <li>💻 Full-Stack Development</li>
+  <li>📊 Data Science & Analytics</li>
 </ul>
 <p>
-I’m a lifelong learner and problem solver, always seeking new challenges and opportunities to innovate. My journey is fueled by a passion for technology and a commitment to making a real-world impact.
+I thrive at the intersection of curiosity and creation — always learning, always building.
 </p>
 </td>
 <td align="center">
@@ -53,49 +52,45 @@ I’m a lifelong learner and problem solver, always seeking new challenges and o
 </tr>
 </table>
 
+
 ---
 
-## 🌟 Featured Portfolio Projects
+## 🌟 Featured Projects
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
       <h3>Ravi Modular Website</h3>
       <img src="https://img.shields.io/badge/Type-Web_Application-blue?style=for-the-badge" />
-      <p>Enterprise-grade modular business platform with seamless front-end, back-end, and database integration.</p>
+      <p>A complete modular business web solution with full front-end, back-end, and database systems.</p>
       <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-      <br><a href="#">🔗 View Project</a>
     </td>
     <td align="center" width="33%">
       <h3>NoteZi</h3>
       <img src="https://img.shields.io/badge/Type-Mobile_App-purple?style=for-the-badge" />
-      <p>Kotlin-powered note-taking app with Firebase cloud sync and secure user authentication.</p>
+      <p>Kotlin-powered mobile note app featuring Firebase cloud integration and user-authentication.</p>
       <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-      <br><a href="#">🔗 View Project</a>
     </td>
     <td align="center" width="33%">
       <h3>Yummy App</h3>
       <img src="https://img.shields.io/badge/Type-Mobile_App-purple?style=for-the-badge" />
-      <p>End-to-end food delivery platform with real-time order tracking and a delightful user experience.</p>
+      <p>End-to-end food delivery application with robust UI/UX and real-time order tracking.</p>
       <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-      <br><a href="#">🔗 View Project</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <h3>Online Banking System</h3>
       <img src="https://img.shields.io/badge/Type-Web_Application-blue?style=for-the-badge" />
-      <p>Secure, full-stack online banking solution with robust SQL database integration.</p>
+      <p>Secure online banking interface with full-stack development and SQL database integration.</p>
       <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-      <br><a href="#">🔗 View Project</a>
     </td>
     <td align="center" colspan="2">
-      <h3>🔭 Currently Building</h3>
+      <h3>🔭 Currently Working On</h3>
       <ul align="left">
-        <li>🧠 Advanced AI security solutions for next-gen threat detection</li>
-        <li>☁️ Cloud-native microservice architectures</li>
-        <li>📈 Interactive data visualization dashboards</li>
-        <li>🌐 Open-source contributions and community projects</li>
+        <li>🧠 Advanced AI security solutions for threat detection</li>
+        <li>☁️ Cloud-native microservice architecture</li>
+        <li>📈 Data visualization dashboards with interactive graphs</li>
       </ul>
     </td>
   </tr>
@@ -110,40 +105,40 @@ timeline
   title Miguel Pilapil's Tech Evolution
   2021 : Started in IT Support
        : Hands-on troubleshooting & PC builds
-  2022 : Oracle Cloud Certified & DevOps Explorer
-       : Built first cloud-native apps
-  2024 : Project Management Intern
+  2022 : Earned Oracle Cloud certifications
+       : Ventured into DevOps & infrastructure
+  2024 : Interned in Project Management
        : Delivered full-stack web projects
-  2025 : AI, Cloud & Cybersecurity Specialist
-       : 40+ Certifications & Counting!
+  2025 : Specialized in AI, Cloud & Cybersecurity
+       : Achieved 40+ Certifications
 ```
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 <details>
 <summary><b>🚀 IT Project Intern @ Highly Succed Inc. (2024–2025)</b></summary>
 <ul>
-  <li>Orchestrated project deliverables, timelines, and risk management</li>
-  <li>Collaborated with cross-functional IT teams for seamless execution</li>
-  <li>Maintained comprehensive documentation and stakeholder reports</li>
-  <li>Leveraged Agile and Gantt methodologies for project success</li>
+  <li>Planned and tracked project deliverables, timelines, and risks</li>
+  <li>Worked cross-functionally with IT teams for project execution</li>
+  <li>Maintained documentation and reports for stakeholders</li>
+  <li>Utilized PM tools like Gantt charts and Agile methodologies</li>
 </ul>
 </details>
 
 <details>
 <summary><b>🖥️ Tech Staff (2021–2022)</b></summary>
 <ul>
-  <li>Diagnosed and resolved complex hardware/software issues</li>
-  <li>Built and optimized high-performance custom PCs</li>
-  <li>Supported desktop systems and local network infrastructures</li>
+  <li>Diagnosed and repaired hardware/software issues</li>
+  <li>Built and optimized custom PCs</li>
+  <li>Supported desktop systems and local network setups</li>
 </ul>
 </details>
 
 ---
 
-## 🛠️ My Tech Toolbox
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -165,10 +160,10 @@ timeline
 
 ---
 
-## 🏅 Certifications & Achievements
+## 🏅 Certifications
 
 <details>
-<summary><b>🎓 Explore 40+ Professional Certifications</b></summary>
+<summary><b>🎓 View 40+ Professional Certifications</b></summary>
 
 ### 🤖 Artificial Intelligence & Machine Learning
 - Deep Learning with TensorFlow – IBM & Cognitive Class  
@@ -205,5 +200,5 @@ timeline
 
 ---
 
-> ⚡ *"Technology isn’t just my career — it’s my playground, my passion, and my way to change the world."*  
+> ⚡ *"Technology is not just a tool — it's my language of innovation."*  
 > – Miguel Pilapil
