@@ -4,22 +4,24 @@
 
 ---
 
-<div align="center"> <a href="https://www.facebook.com/saintlaureeel" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="40" style="margin: 0 15px;" /> </a> <a href="https://www.instagram.com/_nonomigs/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="40" style="margin: 0 15px;" /> </a> <a href="https://www.linkedin.com/in/sainttlaurel" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="margin: 0 15px;" /> </a> <a href="mailto:MiguelPilapil30@gmail.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" style="margin: 0 15px;" /> </a> <a href="https://discordapp.com/users/justtwannadie" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" height="40" style="margin: 0 15px;" /> </a> </div>
-
-
-## 🔐 TryHackMe Profile
-
 <div align="center">
-  <a href="https://tryhackme.com/p/MIGKOUEL" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/MIGKOUEL.png" alt="TryHackMe Badge" />
+  <a href="https://www.facebook.com/saintlaureeel" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="40" style="margin: 0 15px;" />
   </a>
-</div>
-
-## 💻 HackerRank Profile
-
-<div align="center">
-  <a href="https://www.hackerrank.com/profile/miguel_pilapil" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-4CAF50?style=flat-square&logo=codeforces" alt="Miguel's HackerRank Profile" />
+  <a href="https://www.instagram.com/_nonomigs/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="40" style="margin: 0 15px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/sainttlaurel" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="margin: 0 15px;" />
+  </a>
+  <a href="mailto:MiguelPilapil30@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" style="margin: 0 15px;" />
+  </a>
+  <a href="https://discordapp.com/users/justtwannadie" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" height="40" style="margin: 0 15px;" />
+  </a>
+  <a href="https://mpmyportfolio.netlify.app/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="40" style="margin: 0 15px;" />
   </a>
 </div>
 
